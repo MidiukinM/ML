@@ -18,7 +18,7 @@ layout: nil
 * Массивы или списки
 * Математические операции
 * Убеждаемся, что линейная алгебра - это просто!
-* [Тетрадка со скриптом занятия](https://github.com/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/День%201.zip)
+* [Тетрадка со скриптом занятия](https://github.com/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/День%201.zip?raw=true)
 * [Видео о том, зачем дата-сатанисту Линал](https://www.youtube.com/watch?time_continue=1&v=Or119IXozCM)
 
 ### День 2
