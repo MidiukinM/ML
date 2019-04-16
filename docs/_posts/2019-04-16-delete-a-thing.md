@@ -26,7 +26,7 @@ layout: nil
 * Библиотека Pandas для работы с данными
 * Объекты Series и DataFrame
 * Оцениваем "силу" студента по кол-ву выпитых коктейлей
-* [Тетрадки со скриптами занятия](https://github.com/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/День%202.zip)
+* [Тетрадки со скриптами занятия](https://github.com/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/День%202.zip?raw=true)
 
 ### День 3
 
@@ -34,4 +34,4 @@ layout: nil
 * Сложности с индексами
 * Мультииндексы, которые помогут написать НИР (возможно)
 * Пропущенные значения. Почему это плохо и как бороться
-* [Тетрадка со скриптом занятия](https://github.com/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/День%203.zip)
+* [Тетрадка со скриптом занятия](https://github.com/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/День%203.zip?raw=true)
