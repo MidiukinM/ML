@@ -19,7 +19,8 @@ layout: nil
 * Основные операции со списками
 * Смотрим на средний рост президентов США
 * [Смотреть тетрадку с занятия](https://nbviewer.jupyter.org/github/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/view/Intro_to_numpy.ipynb)
-* [Скачать тетрадку с занятия](https://github.com/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/День%201.zip?raw=true)
+* [Смотреть тетрадку по президентам](https://nbviewer.jupyter.org/github/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/view/ex_height.ipynb)
+* [Скачать тетрадки с занятия](https://github.com/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/Day-1.zip?raw=true)
 
 
 ### День 2
@@ -27,7 +28,7 @@ layout: nil
 * Продолжаем изучать NumPy
 * Убеждаемся, что линейная алгебра - это просто!
 * [Смотреть тетрадку с занятия](https://nbviewer.jupyter.org/github/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/view/linear_alg.ipynb)
-* [Скачать тетрадку с занятия](https://github.com/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/День%202.zip?raw=true)
+* [Скачать тетрадку с занятия](https://github.com/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/Day-2.zip?raw=true)
 
 * [Видео о том, зачем дата-сатанисту Линал](https://www.youtube.com/watch?time_continue=1&v=Or119IXozCM)
 
@@ -38,7 +39,7 @@ layout: nil
 * Объекты Series и DataFrame
 * Оцениваем "силу" студента по кол-ву выпитых коктейлей
 * [Смотреть тетрадку с занятия](https://nbviewer.jupyter.org/github/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/view/obj_in_pandas.ipynb)
-* [Скачать тетрадку с занятия](https://github.com/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/День%203.zip?raw=true)
+* [Скачать тетрадку с занятия](https://github.com/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/Day-3.zip?raw=true)
 
 
 ### День 4
@@ -47,17 +48,17 @@ layout: nil
 * Сложности с индексами
 * Мультииндексы и панельный данные
 * Пропущенные значения. Почему это плохо и как бороться
-* [Смотреть тетрадку про индексы](https://nbviewer.jupyter.org/github/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/view/index_pandas.ipynb)
-* [Смотреть тетрадку про NA](https://nbviewer.jupyter.org/github/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/view/NaN.ipynb)
-* [Скачать все тетрадки с занятия](https://github.com/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/День%204.zip?raw=true)
+* [Смотреть тетрадку про индексы]
+* [Смотреть тетрадку про NA]
+* [Скачать все тетрадки с занятия]
 
 ### День 5
 
 * Все еще работаем с Pandas
 * Учимся соединять несколько наборов данных и не терять при этом значения
 * Узнаем, в каком штате Америки плотность населения выше
-* [Смотреть тетрадку про объединения](https://nbviewer.jupyter.org/github/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/view/join_data.ipynb)
-* [Смотреть тетрадку про пример со штатами](https://nbviewer.jupyter.org/github/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/view/ex_join.ipynb)
-* [Скачать все тетрадки с занятия](https://github.com/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/День%205.zip?raw=true)
+* [Смотреть тетрадку про объединения]
+* [Смотреть тетрадку про пример со штатами]
+* [Скачать все тетрадки с занятия]
 
 ### День 6
