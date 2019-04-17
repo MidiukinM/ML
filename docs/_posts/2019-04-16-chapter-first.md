@@ -16,7 +16,8 @@ layout: nil
 
 * Введение в библиотеку NumPy
 * Массивы или списки
-* Математические операции
+* Основные операции со списками
+* Смотрим на средний рост президентов США
 * [Смотреть тетрадку с занятия](https://nbviewer.jupyter.org/github/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/view/Intro_to_numpy.ipynb)
 * [Скачать тетрадку с занятия](https://github.com/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/День%201.zip?raw=true)
 
