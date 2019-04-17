@@ -48,17 +48,17 @@ layout: nil
 * Сложности с индексами
 * Мультииндексы и панельные данные
 * Пропущенные значения. Почему это плохо и как бороться
-* [Смотреть тетрадку про индексы]
-* [Смотреть тетрадку про NA]
-* [Скачать все тетрадки с занятия]
+* [Смотреть тетрадку про индексы](https://nbviewer.jupyter.org/github/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/view/index_pandas.ipynb)
+* [Смотреть тетрадку про NA](https://nbviewer.jupyter.org/github/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/view/NaN.ipynb)
+* [Скачать все тетрадки с занятия](https://github.com/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/Day-4.zip?raw=true)
 
 ### День 5
 
 * Все еще работаем с Pandas
 * Учимся соединять несколько наборов данных и не терять при этом значения
 * Узнаем, в каком штате Америки плотность населения выше
-* [Смотреть тетрадку про объединения]
-* [Смотреть тетрадку про пример со штатами]
-* [Скачать все тетрадки с занятия]
+* [Смотреть тетрадку про объединения](https://nbviewer.jupyter.org/github/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/view/join_data.ipynb)
+* [Смотреть тетрадку про пример со штатами](https://nbviewer.jupyter.org/github/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/view/ex_join.ipynb)
+* [Скачать все тетрадки с занятия](https://github.com/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/Day-5.zip?raw=true)
 
 ### День 6
