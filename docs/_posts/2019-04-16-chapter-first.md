@@ -37,6 +37,7 @@ layout: nil
 
 * Библиотека _Pandas_ для работы с данными
 * Объекты _Series_ и _DataFrame_
+* Объект _Index_
 * Оцениваем "силу" студента по кол-ву выпитых коктейлей
 * [Смотреть тетрадку с занятия](https://nbviewer.jupyter.org/github/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/view/obj_in_pandas.ipynb)
 * [Скачать тетрадку](https://github.com/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/Day-3.zip?raw=true)
@@ -45,21 +46,25 @@ layout: nil
 ### День 4
 
 * Продолжаем работу с _Pandas_
-* Сложности с индексами
-* Мультииндексы и панельные данные
+* Сложности с объектом _Index_
+* Объект _MultiIndex_ и панельные данные
 * Пропущенные значения. Почему это плохо и как бороться
+* Узнаем про категориальные данные
 * [Смотреть тетрадку про индексы](https://nbviewer.jupyter.org/github/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/view/index_pandas.ipynb)
 * [Смотреть тетрадку про NA](https://nbviewer.jupyter.org/github/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/view/NaN.ipynb)
-* [Скачать все тетрадки](https://github.com/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/Day-4.zip?raw=true)
+* [Смотреть тетрадку по категориальным данным]
+* [Скачать все тетрадки]
 
 ### День 5
 
 * Все еще работаем с _Pandas_
+* Загрузка данных
 * Учимся соединять несколько наборов данных и не терять при этом значения
 * Узнаем, в каком штате Америки плотность населения выше
+* [Смотреть тетрадку по загрузке данных]
 * [Смотреть тетрадку про объединения](https://nbviewer.jupyter.org/github/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/view/join_data.ipynb)
 * [Смотреть тетрадку про пример со штатами](https://nbviewer.jupyter.org/github/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/view/ex_join.ipynb)
-* [Скачать все тетрадки](https://github.com/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/Day-5.zip?raw=true)
+* [Скачать все тетрадки]
 
 ### День 6
 * Заканчиваем _Pandas_
