@@ -1,5 +1,5 @@
 ---
-title: 'Глава 1: Введение в Python'
+title: 'Глава 1: Первичный анализ данных с Python'
 
 layout: nil
 ---
@@ -10,66 +10,46 @@ layout: nil
 * Почему _Python_?
 * Работа с _jupyter notebook_
 * Краткий экскурс в синтаксис Python
+
 * [Наша первая тетрадка в Jupyter]
 
 ### День 1
 
-* Введение в библиотеку _NumPy_
+* Библиотека _NumPy_
 * Массивы или списки
 * Основные операции со списками
 * Смотрим на средний рост президентов США
-* [Смотреть тетрадку по введению в NumPy](https://nbviewer.jupyter.org/github/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/view/Intro_to_numpy.ipynb)
-* [Смотреть тетрадку по президентам](https://nbviewer.jupyter.org/github/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/view/ex_height.ipynb)
-* [Скачать тетрадку](https://github.com/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/Day-1.zip?raw=true)
-
+* Убеждаемся, что линейная алгебра - это просто!
+* [Смотреть тетрадку про библиотеку _NumPy_]()
+* [Смотреть тетрадку про линейную алгебру в _NumPy_]
+* [Скачать все]
+* [Видео о том, зачем дата-сатанисту Линал](https://www.youtube.com/watch?time_continue=1&v=Or119IXozCM)
 
 ### День 2
 
-* Продолжаем изучать _NumPy_
-* Убеждаемся, что линейная алгебра - это просто!
-* [Смотреть тетрадку по линейной алгебре](https://nbviewer.jupyter.org/github/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/view/linear_alg.ipynb)
-* [Скачать тетрадку](https://github.com/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/Day-2.zip?raw=true)
-
-* [Видео о том, зачем дата-сатанисту Линал](https://www.youtube.com/watch?time_continue=1&v=Or119IXozCM)
-
+* Библиотека _Pandas_ для работы с данными
+* Загружаем данные
+* Объекты _Series_ и _DataFrame_
+* Оцениваем "силу" студента по кол-ву выпитых коктейлей в баре
+* Объекты _Index_ и _MultiIndex_
+* Категориальные данные
+* Обработка пропущенных значений
+* [Смотреть тетрадку про объекты _Pandas_]()
+* [Смотреть тетрадку про индексы]()
+* [Смотреть тетрадку про NA]
+* [Смотреть тетрадку про категориальные данные]
+* [Скачать все]
 
 ### День 3
 
-* Библиотека _Pandas_ для работы с данными
-* Объекты _Series_ и _DataFrame_
-* Объект _Index_
-* Оцениваем "силу" студента по кол-ву выпитых коктейлей
-* [Смотреть тетрадку с занятия](https://nbviewer.jupyter.org/github/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/view/obj_in_pandas.ipynb)
-* [Скачать тетрадку](https://github.com/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/Day-3.zip?raw=true)
-
+* Заканчиваем работу с _Pandas_
+* Учимся соединять несколько наборов данных и не терять при этом значения
+* Смотрим, в каком штате Америки плотность населения выше
+* Сводные таблицы и функция `Groupby`
+* [Смотреть тетрадку про объединения]
+* [Смотреть тетрадку про агрегирование с Титаником]
+* [Скачать все]
 
 ### День 4
 
-* Продолжаем работу с _Pandas_
-* Сложности с объектом _Index_
-* Объект _MultiIndex_ и панельные данные
-* Пропущенные значения. Почему это плохо и как бороться
-* Узнаем про категориальные данные
-* [Смотреть тетрадку про индексы](https://nbviewer.jupyter.org/github/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/view/index_pandas.ipynb)
-* [Смотреть тетрадку про NA](https://nbviewer.jupyter.org/github/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/view/NaN.ipynb)
-* [Смотреть тетрадку по категориальным данным]
-* [Скачать все тетрадки]
-
-### День 5
-
-* Все еще работаем с _Pandas_
-* Загрузка данных
-* Учимся соединять несколько наборов данных и не терять при этом значения
-* Узнаем, в каком штате Америки плотность населения выше
-* [Смотреть тетрадку по загрузке данных]
-* [Смотреть тетрадку про объединения](https://nbviewer.jupyter.org/github/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/view/join_data.ipynb)
-* [Смотреть тетрадку про пример со штатами](https://nbviewer.jupyter.org/github/MidiukinM/ML/blob/master/docs/notebooks/Chapter_1/view/ex_join.ipynb)
-* [Скачать все тетрадки]
-
-### День 6
-* Заканчиваем _Pandas_
-* Узнаем как работать со строковыми данными
-* Узнаем, как выжить на Титанике с помощью сводных таблиц и функции `Groupby`
-* [Смотреть тетрадку по строковым данным]
-* [Смотреть тетрадку по Титанику]
-* [Скачать все тетрадки]
+* Красивые графики с помощью _Matplotlib_ и _Seaborn_
